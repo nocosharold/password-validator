@@ -81,7 +81,6 @@ body {
     color: #ff2929;
     font-size: 14px;
     font-weight: normal;
-    margin-left: 160px;
-    margin-top: -8px;
+    margin: -8px 0 0 160px;
     position: relative;
 }
