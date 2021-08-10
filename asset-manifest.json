@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/password-validator/static/css/main.685cfbdb.chunk.css",
+    "main.js": "/password-validator/static/js/main.175fad2c.chunk.js",
+    "main.js.map": "/password-validator/static/js/main.175fad2c.chunk.js.map",
+    "runtime-main.js": "/password-validator/static/js/runtime-main.f76bc19a.js",
+    "runtime-main.js.map": "/password-validator/static/js/runtime-main.f76bc19a.js.map",
+    "static/js/2.0688afc4.chunk.js": "/password-validator/static/js/2.0688afc4.chunk.js",
+    "static/js/2.0688afc4.chunk.js.map": "/password-validator/static/js/2.0688afc4.chunk.js.map",
+    "index.html": "/password-validator/index.html",
+    "static/css/main.685cfbdb.chunk.css.map": "/password-validator/static/css/main.685cfbdb.chunk.css.map",
+    "static/js/2.0688afc4.chunk.js.LICENSE.txt": "/password-validator/static/js/2.0688afc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f76bc19a.js",
+    "static/js/2.0688afc4.chunk.js",
+    "static/css/main.685cfbdb.chunk.css",
+    "static/js/main.175fad2c.chunk.js"
+  ]
+}
